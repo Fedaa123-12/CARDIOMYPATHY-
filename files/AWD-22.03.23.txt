@@ -1,0 +1,30 @@
+Meeting Details
+Date:
+22/03/23
+
+Expected Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Actual Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Time and Duration
+11:00 – 12:00 (1h 00min)
+
+Conversation Summary
+Updated Trello task delegation
+Fedaa – Completed read functionality
+Conrad – Manage account started, password change completed
+Jamie – Graphs working, graph type started
+
+Before Next Meeting
+Fedaa – Start another CRUD function
+Conrad – Continue manage account page
+Jamie – Finish graph type selection, introduce read data
+
+Recorded by
+Jamie Espitia Briers

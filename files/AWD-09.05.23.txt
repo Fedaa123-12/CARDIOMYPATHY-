@@ -1,0 +1,28 @@
+Meeting Details
+Date:
+09/05/23
+
+Expected Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Actual Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Time and Duration
+14:40 – 16:20 (1h 40min)
+20:00 – 21:00 (1h)
+
+Conversation Summary
+Github went down so we halted meeting.
+Final changes to styling and bug fixes.
+Merging of individual branches.
+Discussion of final features.
+Added README
+
+Recorded by
+Group
+

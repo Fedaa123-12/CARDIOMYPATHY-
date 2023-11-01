@@ -1,0 +1,27 @@
+Meeting Details
+Date:
+01/05/23
+
+Expected Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Actual Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Time and Duration
+13:40 – 14:15 (0h 35min)
+
+Conversation Summary
+Code reviews of Conrad’s deleteaccount branch. Pair programmed as a three.
+
+Before Next Meeting
+Fedaa – Look at admin account feature
+Conrad – Add to presentation & alter query code
+Jamie – Look at query code
+
+Recorded by
+Group

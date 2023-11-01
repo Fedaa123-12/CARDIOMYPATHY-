@@ -1,0 +1,28 @@
+Meeting Details
+Date:
+18/04/23
+
+Expected Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Actual Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Time and Duration
+13:30 – 14:30 (1h 00min)
+
+Conversation Summary
+Group code review of Fedaa’s API connection
+
+Before Next Meeting
+Fedaa – Add Admin Account
+Conrad – Test current features in main branch, add website help page,
+Jamie – add data to charts (not completed from last meeting), integrate API, update trello
+
+Recorded by
+Group
+

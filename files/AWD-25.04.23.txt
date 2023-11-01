@@ -1,0 +1,27 @@
+Meeting Details
+Date:
+25/04/23
+
+Expected Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Actual Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Time and Duration
+13:20 – 14:00 (0h 40min)
+
+Conversation Summary
+Discussed DataTables and decided to talk with Ismail about data inputs. (Fedaa will talk to Ismail)
+
+Before Next Meeting
+Fedaa – Talk with Ismail about dataTables
+Conrad – Begin planning presentation
+Jamie – Styling, update trello
+
+Recorded by
+Group

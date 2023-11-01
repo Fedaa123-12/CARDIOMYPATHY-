@@ -1,0 +1,26 @@
+Meeting Details 
+
+Date: 
+01/03/23 
+
+Expected Attendees 
+Conrad Harman 
+Fedaa Chamat 
+Jamie Espitia Briers 
+
+Actual Attendees 
+Conrad Harman 
+Fedaa Chamat 
+Jamie Espitia Briers 
+
+Time and Duration 
+11:15 - 12:30 (1h 15min) 
+
+Conversation Summary 
+Receive project brief and specification 
+
+Before Next Meeting 
+Study the specification brief 
+Start designing  
+ERD – UML – UCD 
+ 

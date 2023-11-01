@@ -1,0 +1,29 @@
+Meeting Details
+Date:
+04/04/23
+
+Expected Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Actual Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Time and Duration
+08:10 – 09:40 (1h 40min)
+
+Conversation Summary
+Group code review and merged branches to main
+Removed irrelevant data from dataset – emailed Ismail regarding RVMass
+Requested meeting  to clarify requirements
+
+Before Next Meeting
+Fedaa – use external HCM datasets
+Conrad – find charts for our purpose add testing data, add age range groups / counts for graphs
+Jamie – add read data into charts
+
+Recorded by
+Group

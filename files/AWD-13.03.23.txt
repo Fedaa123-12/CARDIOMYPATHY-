@@ -1,0 +1,23 @@
+Meeting Details
+Date:
+13/03/23
+
+Expected Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Actual Attendees
+Conrad Harman
+Jamie Espitia Briers
+
+Time and Duration
+15:10 - 16:30 (1h 20min)
+
+Conversation Summary
+Discussed accounts for Trello and GitHub, these details will need to be shared later so using current personal accounts is not preferrable. 
+
+Before Next Meeting
+Create new accounts for Trello and GitHub
+Conrad – Create a wireframe for the front end and make a simple firebase database which we can all share
+Jamie – Using Conrad’s design, make a homepage to link to other pages which will be populated later

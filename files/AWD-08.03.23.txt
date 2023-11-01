@@ -1,0 +1,32 @@
+Meeting Details
+Date:
+08/03/23
+
+Expected Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Actual Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Time and Duration
+11:00 - 12: (1h min)
+
+Conversation Summary
+Reviewed UCD
+discuss technologies to be used: 
+•	JavaScript + Vue – frontend functionality and display
+•	Firebase – database management and project deployment
+•	GitHub – code management and version control
+•	Word – meeting documentation
+•	Trello – progress visualisation and task delegation
+•	MS Teams – Project related communication and file sharing
+TypeScript considered; however, we are all more comfortable and familiar with vanilla JavaScript.
+Before Next Meeting
+Ensure last 2 weeks of lab work is done and understood because this will be the basis for the projects implementation.
+
+Recorded by
+Jamie Espitia Briers

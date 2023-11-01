@@ -1,0 +1,30 @@
+Meeting Details
+Date:
+20/03/23
+
+Expected Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Actual Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Time and Duration
+15:00 – 16:30 (1h 30min)
+
+Conversation Summary
+Updated Trello task delegation
+Fedaa – Data uploaded to database
+Conrad – Finished login/register pages
+Jamie – Created home page, started graphs
+
+Before Next Meeting
+Fedaa – Start read functionality for database
+Conrad – Begin  user detail management page
+Jamie – Make user chosen graphs
+
+Recorded by
+Jamie Espitia Briers

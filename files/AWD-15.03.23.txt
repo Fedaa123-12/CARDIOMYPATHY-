@@ -1,0 +1,26 @@
+Meeting Details
+Date:
+15/03/23
+
+Expected Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Actual Attendees
+Conrad Harman
+Fedaa Chamat
+Jamie Espitia Briers
+
+Time and Duration
+11:00 – 12:10 (1h 00min)
+
+Conversation Summary
+Created new accounts for platforms and a shared account for firebase.
+Delegated tasks:
+Jamie – Home page
+Conrad – Login/Register page
+Fedaa – Database and CRUD
+
+Before Next Meeting
+Complete delegated tasks (See above)

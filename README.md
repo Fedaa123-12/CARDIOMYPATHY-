@@ -4,6 +4,15 @@ Manchester Metropolitan University | 2023 Software Engineering
 Year 3 Advanced Web Development - Group Module
 Group 4: Jamie Espitia Briers, Fedaa Chamat, Conrad Harman
 
+
+
+## Update on the project
+
+The original repositry has been deleted by one team member and could not be recovered.
+This is a presentation of the original website and what it looke like.
+For more information about the website, please visit:   https://fedaa-chamat.co.uk/cardiomyopathy.html.
+
+
 ## Project Overview
 
 This project was presented as a client requested product to fill a
